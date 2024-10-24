@@ -1,0 +1,107 @@
+[
+{
+    "id": 1,
+    "name": "Book",
+    "price": 200,
+    "image": "sample-img/book1.jpg",
+    "category": "books"
+},
+{
+    "id": 2,
+    "name": "Bracelet",
+    "price": 200,
+    "image": "sample-img/acc1.webp",
+    "category": "accesories"
+},
+{
+    "id": 3,
+    "name": "Dress",
+    "price": 200,
+    "image": "sample-img/clothes1.jpg",
+    "category": "clothes"
+},
+{
+    "id": 4,
+    "name": "Wall hanging decor",
+    "price": 200,
+    "image": "sample-img/decor1.jpg",
+    "category": "decor"
+},
+{
+    "id": 5,
+    "name": "Plushie",
+    "price": 200,
+    "image": "sample-img/toy1.jfif",
+    "category": "toys"
+},
+{
+    "id": 6,
+    "name": "Book",
+    "price": 200,
+    "image": "sample-img/book2.webp",
+    "category": "books"
+},
+{
+    "id": 7,
+    "name": "Bracelet ring",
+    "price": 200,
+    "image": "sample-img/acc2.jfif",
+    "category": "accesories"
+},
+{
+    "id": 8,
+    "name": "Mini dress",
+    "price": 200,
+    "image": "sample-img/clothes2.jpg",
+    "category": "clothes"
+},
+{
+    "id": 9,
+    "name": "Decor",
+    "price": 200,
+    "image": "sample-img/decor2.jfif",
+    "category": "decor"
+},
+{
+    "id": 10,
+    "name": "Cat plushie",
+    "price": 200,
+    "image": "sample-img/toy2.jfif",
+    "category": "toys"
+},
+{
+    "id": 11,
+    "name": "Book",
+    "price": 200,
+    "image": "sample-img/book3.webp",
+    "category": "books"
+},
+{
+    "id": 12,
+    "name": "Earrings",
+    "price": 200,
+    "image": "sample-img/acc3.jpg",
+    "category": "accesories"
+},
+{
+    "id": 13,
+    "name": "Book",
+    "price": 200,
+    "image": "sample-img/book4.jpg",
+    "category": "books"
+},
+{
+    "id": 14,
+    "name": "Mini decor",
+    "price": 200,
+    "image": "sample-img/decor3.webp",
+    "category": "decor"
+},
+{
+    "id": 15,
+    "name": "Pig plushies",
+    "price": 200,
+    "image": "sample-img/toy3.webp",
+    "category": "toys"
+}
+]
